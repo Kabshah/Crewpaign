@@ -1,0 +1,21 @@
+Research Plan:
+
+Phase 1: Secondary Research (Budget: Rs. 10,000)
+- Timeframe: 2 days
+- Methods: General web searches (Google, Bing), free market research reports from industry associations.
+- Deliverables: Documentation of findings on market trends, competitor analysis, and customer reviews.
+
+Phase 2: Primary Research (Budget: Rs. 20,000)
+- Timeframe: 3 days
+- Methods: Online survey using Google Forms (100-150 SME participants), incentivized with a small gift card (Rs. 2,000).
+- Deliverables: Survey data on SME pain points, desired features, budget constraints.
+
+Phase 3: Data Analysis (Budget: Rs. 10,000)
+- Timeframe: 2 days
+- Methods: Initial analysis using Google Sheets. If needed, utilize a low-cost data analysis tool or freelance data analyst for more complex statistical analysis.
+- Deliverables: Key findings, customer personas, competitor profiles, market trends.
+
+Phase 4: Report Writing (Budget: Rs. 0)
+- Timeframe: 2 days
+- Methods: Compile findings into a comprehensive report using a word processor, create charts and graphs using spreadsheet software or a free online charting tool.
+- Deliverables: Market research report including market trends, competitor analysis, customer insights, and marketing strategy recommendations.

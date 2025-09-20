@@ -1,0 +1,71 @@
+## AI-Powered Excel Automation Tool Survey for SMEs
+
+**Introduction:**
+
+Thank you for taking the time to participate in this short survey.  We are conducting research to understand the needs and challenges of SMEs regarding Excel automation. Your feedback will help us develop an AI-powered tool that addresses your specific requirements. As a token of our appreciation, you will receive a small gift card upon completion of the survey.
+
+**Section 1: Pain Points**
+
+1. How many hours per week do your employees spend on manual Excel tasks?
+    * Less than 5 hours
+    * 5-10 hours
+    * 10-20 hours
+    * More than 20 hours
+
+2. Which of the following best describes your biggest pain points related to manual Excel tasks? (Select all that apply)
+    * Time-consuming
+    * Error-prone
+    * Repetitive
+    * Difficult to learn
+    * Lack of consistency
+    * Other (Please specify): _______________
+
+3.  Please describe any other challenges you face with manual Excel tasks:
+    ____________________________________________________________________________________________________________________________________________________________________________________________________
+
+**Section 2: Desired Features**
+
+1. Which of the following features would be most valuable in an AI-powered Excel automation tool? (Select all that apply)
+    * Data cleaning and validation
+    * Automated report generation
+    * Formula automation
+    * Data visualization
+    * Integration with other software (e.g., CRM, ERP)
+    * Custom macro creation
+    * Other (Please specify): _______________
+
+2. How important is ease of use in an AI-powered Excel automation tool?
+    * Not important
+    * Somewhat important
+    * Important
+    * Very important
+
+3.  Please describe any other features you would like to see in an AI-powered Excel automation tool:
+    ____________________________________________________________________________________________________________________________________________________________________________________________________
+
+**Section 3: Budget**
+
+1. What is your approximate budget for software solutions like this?
+    * Less than Rs. 5,000 per year
+    * Rs. 5,000 - Rs. 10,000 per year
+    * Rs. 10,000 - Rs. 20,000 per year
+    * More than Rs. 20,000 per year
+
+2. Which pricing model would you prefer?
+    * One-time purchase
+    * Subscription (monthly/yearly)
+
+**Section 4: Contact Information**
+
+1. Company Name:
+    _____________________
+2. Your Name:
+    _____________________
+3. Your Email:
+    _____________________
+4. Your Phone Number (Optional):
+    _____________________
+
+**Thank You!**
+
+Thank you for your participation. Your feedback is invaluable to us.

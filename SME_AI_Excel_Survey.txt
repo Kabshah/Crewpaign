@@ -1,0 +1,57 @@
+## AI-Powered Excel Automation Tool Survey for SMEs
+
+**Introduction:**
+
+Thank you for taking the time to participate in this short survey.  We are conducting research to understand the needs and challenges SMEs face regarding Excel automation. Your feedback will help us develop an AI-powered tool that meets your specific requirements.  As a token of our appreciation, you will receive a small gift card upon completion of the survey.
+
+**Section 1: Pain Points**
+
+1. **Which of the following best describes your experience with manual Excel tasks?** (Multiple choice)
+    * Very time-consuming
+    * Error-prone
+    * Repetitive and boring
+    * Difficult to manage large datasets
+    * Other (Please specify): _______________
+
+2. **How much time do you estimate is spent weekly on manual Excel tasks?** (Multiple choice)
+    * Less than 5 hours
+    * 5-10 hours
+    * 10-15 hours
+    * More than 15 hours
+
+3. **Describe any significant challenges or pain points you experience when working with Excel.** (Open-ended text box)
+
+**Section 2: Desired Features**
+
+1. **Which of the following AI-powered features would be most valuable to you?** (Check all that apply)
+    * Data cleaning and validation
+    * Automated report generation
+    * Formula generation/correction
+    * Predictive modeling
+    * Data visualization
+    * Integration with other software (e.g., CRM, ERP)
+    * Other (Please specify): _______________
+
+2. **How important is ease of use when considering an AI-powered Excel automation tool?** (Scale of 1-5, 1 being not important, 5 being extremely important)
+
+3. **What other features would you like to see in an AI-powered Excel automation tool?** (Open-ended text box)
+
+**Section 3: Budgetary Constraints**
+
+1. **What is your approximate budget for an AI-powered Excel automation software solution?** (Multiple choice)
+    * Less than Rs. 5,000 per year
+    * Rs. 5,000 - Rs. 10,000 per year
+    * Rs. 10,000 - Rs. 20,000 per year
+    * More than Rs. 20,000 per year
+    * I'm not sure
+
+2. **Which pricing model would you prefer?** (Multiple choice)
+    * One-time purchase
+    * Subscription-based (monthly)
+    * Subscription-based (annually)
+
+**Section 4: Contact Information (Optional)**
+
+Your email address (Optional): _______________
+
+Thank you for your participation!

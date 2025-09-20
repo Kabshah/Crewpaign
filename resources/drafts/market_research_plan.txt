@@ -1,0 +1,30 @@
+## Market Research Plan for Cli File Sorter
+
+**Phase 1: Defining Research Scope (Day 1-2)**
+
+1. **Key Research Questions:**
+    * What are the biggest pain points developers experience with existing file sorting solutions?
+    * How frequently do developers use command-line file sorting tools?
+    * What features are most important to developers in a CLI file sorter (ranked)?
+    * What is the typical price range developers are willing to pay for a CLI file sorter?
+    * Who are our main competitors, and what are their strengths and weaknesses?
+    * What are the current trends in the software development industry related to file management and command-line tools?
+
+2. **Budget Allocation:**
+    * Online Surveys (SurveyMonkey): Rs. 10,000
+    * Competitor Analysis (scrapingdog_search): Rs. 20,000
+    * Industry Trend Research (scrapingdog_search, Read website content): Rs. 10,000
+    * Data Analysis Software/Consultant (if needed): Rs. 10,000
+
+**Phase 2: Data Collection (Day 3-5)**
+
+1. **Competitor Analysis:** Use scrapingdog_search with keywords: "CLI file sorter", "command-line file sorting", "terminal file organizer", and competitor names.
+2. **Online Surveys:** Design and deploy a survey using SurveyMonkey, targeting developers.  Include questions on current methods, pain points, desired features, willingness to pay, and (optional) experience level.
+3. **Industry Trend Research:** Use scrapingdog_search and Read website content to analyze blogs, articles, and reports on Stack Overflow, Dev.to, etc. Focus on file management, command-line tools, and developer productivity.
+
+**Phase 3: Data Analysis and Report Writing (Day 6-7)**
+
+1. **Survey Data Analysis:** Analyze SurveyMonkey results, identifying key themes and preferences.
+2. **Competitor Analysis Review:** Analyze competitor data, creating a competitive matrix and SWOT analysis.
+3. **Trend Analysis:** Synthesize findings from industry trend research, identifying opportunities and challenges.
+4. **Report Compilation:** Compile all findings into a comprehensive market research report. Save as 'market_research.pdf' in 'resources/drafts' using File Writer Tool.

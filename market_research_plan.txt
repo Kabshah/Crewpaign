@@ -1,0 +1,18 @@
+Research Questions:
+
+1. What are the current market trends and opportunities for CLI file sorters?
+2. Who are the main competitors in the CLI file sorter market, and what are their strengths and weaknesses?
+3. What are the key needs and pain points of developers regarding file sorting?
+4. What is the estimated market size and growth potential for CLI file sorters?
+5. What pricing strategies are employed by competitors, and what is the price sensitivity of target developers?
+6. What are the preferred distribution channels for software development tools amongst our target audience?
+7. What marketing strategies have been effective for similar products in this space?
+
+Keywords:
+
+CLI file sorter, file sorting tools for developers, best command-line file organizer, command line file management, developer tools file management
+
+Competitors (initial list from scrapingdog_search):
+
+- example.com/cli-file-sorter
+- example2.com/cli-file-sorter

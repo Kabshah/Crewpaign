@@ -1,0 +1,6 @@
+**Budget Allocation for Market Research (Rs. 50,000)**
+
+* **Online Surveys (SurveyMonkey):** Rs. 10,000 (Covers survey platform fees and potential incentives for respondents)
+* **Competitor Analysis (scrapingdog_search):** Rs. 20,000 (Covers search credits and potential for additional tools)
+* **Industry Trend Research (scrapingdog_search, Read website content):** Rs. 10,000 (Covers search and content analysis credits)
+* **Data Analysis Software/Consultant (if needed):** Rs. 10,000 (Contingency for professional analysis support)
