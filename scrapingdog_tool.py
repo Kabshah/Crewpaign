@@ -1,28 +1,3 @@
-# import os
-# import requests
-# from dotenv import load_dotenv
-# from crewai.tools import tool   # ✅ sirf decorator use karna hai
-#
-# load_dotenv()
-#
-# SCRAPINGDOG_API_KEY = os.getenv("SCRAPINGDOG_API_KEY")
-# print("Loaded API Key:", SCRAPINGDOG_API_KEY)
-#
-# @tool("scrapingdog_search")
-# def scrapingdog_search(query: str) -> dict:
-#     """Use Scrapingdog API to search Google results"""
-#     url = "https://api.scrapingdog.com/google"
-#     params = {
-#         "api_key": SCRAPINGDOG_API_KEY,
-#         "query": query,
-#         "num": 5   # Top 5 results
-#     }
-#     resp = requests.get(url, params=params)
-#     try:
-#         return resp.json()
-#     except Exception as e:
-#         return {"error": str(e), "text": resp.text}
-
 import os
 import requests
 from dotenv import load_dotenv
